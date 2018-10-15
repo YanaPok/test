@@ -1,0 +1,51 @@
+.main {
+	background: url(assets/bg.jpg) center 50% no-repeat;
+	height: 85rem;
+}
+.main_field {
+  width: 80%;
+  height: 40rem;
+  background-color: rgba(55, 55, 55, 0.6);
+  box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.5);
+  margin:15rem 10% 0 10%;
+  padding-bottom: 5rem;
+  border: 3px solid #ad7835;
+  overflow-y: auto;
+}
+
+.main_btn{
+	width: 25rem;
+	height: 5rem;
+	margin-top: 2rem;
+	border: 3px solid #ad7835;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,.1);
+	outline: none;
+	color: #fff;
+	font-size: 1.5rem;
+}
+.input{
+	height: 5rem;
+	margin-bottom: 1rem;
+	padding-top: 0.2rem;
+	padding-left: 1rem;
+	border: 1px solid #ad7835;
+	border-radius: 10px;
+	font-size: 1.5rem;
+	width: 82%;
+	margin:5rem 10% 5rem 8%;
+}
+
+.result{
+	border: 1px solid #ad7835;
+	border-radius: 10px;
+	font-size: 2.5rem;
+	width: 82%;
+	margin: 5rem 10% 5rem 8%;
+	padding: 10px 109px;
+	color: #fff;
+	width: 500px;
+	height: 50px;
+	text-align: center;
+
+}
